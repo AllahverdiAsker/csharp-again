@@ -1,0 +1,14 @@
+C:\Users\BAKU\source\repos\Dersler2\Dersler2\bin\Debug\netcoreapp3.1\Dersler2.exe
+C:\Users\BAKU\source\repos\Dersler2\Dersler2\bin\Debug\netcoreapp3.1\Dersler2.deps.json
+C:\Users\BAKU\source\repos\Dersler2\Dersler2\bin\Debug\netcoreapp3.1\Dersler2.runtimeconfig.json
+C:\Users\BAKU\source\repos\Dersler2\Dersler2\bin\Debug\netcoreapp3.1\Dersler2.runtimeconfig.dev.json
+C:\Users\BAKU\source\repos\Dersler2\Dersler2\bin\Debug\netcoreapp3.1\Dersler2.dll
+C:\Users\BAKU\source\repos\Dersler2\Dersler2\bin\Debug\netcoreapp3.1\Dersler2.pdb
+C:\Users\BAKU\source\repos\Dersler2\Dersler2\obj\Debug\netcoreapp3.1\Dersler2.csproj.AssemblyReference.cache
+C:\Users\BAKU\source\repos\Dersler2\Dersler2\obj\Debug\netcoreapp3.1\Dersler2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BAKU\source\repos\Dersler2\Dersler2\obj\Debug\netcoreapp3.1\Dersler2.AssemblyInfoInputs.cache
+C:\Users\BAKU\source\repos\Dersler2\Dersler2\obj\Debug\netcoreapp3.1\Dersler2.AssemblyInfo.cs
+C:\Users\BAKU\source\repos\Dersler2\Dersler2\obj\Debug\netcoreapp3.1\Dersler2.csproj.CoreCompileInputs.cache
+C:\Users\BAKU\source\repos\Dersler2\Dersler2\obj\Debug\netcoreapp3.1\Dersler2.dll
+C:\Users\BAKU\source\repos\Dersler2\Dersler2\obj\Debug\netcoreapp3.1\Dersler2.pdb
+C:\Users\BAKU\source\repos\Dersler2\Dersler2\obj\Debug\netcoreapp3.1\Dersler2.genruntimeconfig.cache
